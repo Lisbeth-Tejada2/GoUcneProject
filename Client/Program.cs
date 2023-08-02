@@ -1,11 +1,11 @@
-global using GoUcneProject.Client.Servicios.Contrato;
+global using GoUcneProject.Client.Servicios.Interfaces;
 global using GoUcneProject.Shared;
 using CurrieTechnologies.Razor.SweetAlert2;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using MudBlazor.Services;
 using GoUcneProject.Client;
-using GoUcneProject.Client.Servicios.Implementacion;
+using GoUcneProject.Client.Servicios.LlamadaApi;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
