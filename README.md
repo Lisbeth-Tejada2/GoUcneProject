@@ -21,17 +21,29 @@ GOUCNE aborda este problema al proporcionar una plataforma centralizada que perm
    Interfaz Amigable: GOUCNE presenta una interfaz de usuario intuitiva y fácil de usar, garantizando una experiencia agradable para los estudiantes y administradores.
 
 -IU
-
+Resumen de ventas
 ![Captura de pantalla (413)](https://github.com/Lisbeth-Tejada2/GoUcneProject/assets/123409865/70013126-bb0b-4f11-82de-ea1de7e08def)
 
+Usuarios registrados
 ![Captura de pantalla (414)](https://github.com/Lisbeth-Tejada2/GoUcneProject/assets/123409865/1a483a3b-f52a-4cdb-aba4-c9065425a88d)
 
-
+Para registrar un nuevo usuario
 ![Captura de pantalla (415)](https://github.com/Lisbeth-Tejada2/GoUcneProject/assets/123409865/ab6720fe-443f-463c-bcaf-8c0604e73cc1)
 
+Tickets registrados 
 ![Captura de pantalla (416)](https://github.com/Lisbeth-Tejada2/GoUcneProject/assets/123409865/2894e2d1-e675-45f0-ba04-734999d1f80a)
 
+Para registrar un nuevo ticket
 ![Captura de pantalla (417)](https://github.com/Lisbeth-Tejada2/GoUcneProject/assets/123409865/f3e7fbfa-9dbf-46b2-8292-41c113e573a0)
 
-
+Para realizar una venta
 ![Captura de pantalla (418)](https://github.com/Lisbeth-Tejada2/GoUcneProject/assets/123409865/00a53b00-9df9-424b-92f2-afe90fd783ae)
+
+
+Historial de venta
+![Captura de pantalla (419)](https://github.com/Lisbeth-Tejada2/GoUcneProject/assets/123409865/a04545d3-175c-462e-bd14-ef032d49d543)
+
+Reporte de historial de venta
+![Captura de pantalla (420)](https://github.com/Lisbeth-Tejada2/GoUcneProject/assets/123409865/99c07ab7-8487-442f-919d-b28b1f1c7db8)
+
+
