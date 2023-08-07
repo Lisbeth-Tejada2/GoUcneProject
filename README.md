@@ -21,6 +21,7 @@ GOUCNE aborda este problema al proporcionar una plataforma centralizada que perm
    Interfaz Amigable: GOUCNE presenta una interfaz de usuario intuitiva y fácil de usar, garantizando una experiencia agradable para los estudiantes y administradores.
 
 -IU
+
 Resumen de ventas
 ![Captura de pantalla (413)](https://github.com/Lisbeth-Tejada2/GoUcneProject/assets/123409865/70013126-bb0b-4f11-82de-ea1de7e08def)
 
