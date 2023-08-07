@@ -1,5 +1,6 @@
 # GoUcneProject
 Proyecto GOUCNE - Gestión de Tickets para el Transporte Universitario
+
 -Descripción del Proyecto:
 
 GOUCNE es una aplicación web desarrollada en Blazor WebAssembly que tiene como objetivo gestionar y administrar la venta de tickets para el transporte universitario en la Universidad Católica Nordestana (UCNE). La aplicación brinda una solución eficiente para que los estudiantes de la universidad puedan asegurar su medio de transporte y llegar a sus clases de manera cómoda y oportuna.
