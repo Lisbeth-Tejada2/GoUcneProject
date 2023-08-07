@@ -65,4 +65,4 @@ Reporte de historial de venta
 -Contacto
 Si tienes preguntas, sugerencias o cualquier otro asunto relacionado con el proyecto, no dudes en ponerte en contacto conmigo a través de lisbeth.mta01@gmail.com
 
-¡Gracias por considerar el proyecto GOUCNE! Esperamos que esta aplicación sea de gran utilidad para los estudiantes de la Universidad Católica Nordestana y contribuya a mejorar su experiencia de transporte universitario.
+¡Gracias por considerar el proyecto GOUCNE!
