@@ -1,14 +1,18 @@
 # GoUcneProject
 Proyecto GOUCNE - Gestión de Tickets para el Transporte Universitario
--Descripción del Proyecto
-GOUCNE es una aplicación web desarrollada en Blazor WebAssembly que tiene como objetivo gestionar y administrar la venta de tickets para el transporte universitario en la Universidad Católica del Nordestana (UCNE). La aplicación brinda una solución eficiente para que los estudiantes de la universidad puedan asegurar su medio de transporte y llegar a sus clases de manera cómoda y oportuna.
+-Descripción del Proyecto:
 
--Problemática Resuelta
+GOUCNE es una aplicación web desarrollada en Blazor WebAssembly que tiene como objetivo gestionar y administrar la venta de tickets para el transporte universitario en la Universidad Católica Nordestana (UCNE). La aplicación brinda una solución eficiente para que los estudiantes de la universidad puedan asegurar su medio de transporte y llegar a sus clases de manera cómoda y oportuna.
+
+-Problemática Resuelta:
+
 El principal desafío que enfrentan los estudiantes de la UCNE es asegurar un medio de transporte confiable y eficiente para asistir a sus actividades académicas. La falta de un sistema organizado de venta de tickets y horarios de transporte puede generar inconvenientes y retrasos, influyendo negativamente la puntualidad y el rendimiento académico de los estudiantes.
+
 GOUCNE aborda este problema al proporcionar una plataforma centralizada que permite a los estudiantes adquirir sus tickets de transporte de manera anticipada y conocer los horarios y rutas disponibles. Además, facilita a las asociaciones dispuestas a vender sus servicios de transporte, ofreciendo una forma sencilla y accesible a la venta.
 
--Características y Funcionalidades
-Venta de Tickets para Estudiantes: Los estudiantes pueden registrarse en la aplicación GOUCNE, ver las rutas y horarios disponibles, y comprar sus tickets de transporte de manera conveniente.
+-Características y Funcionalidades:
+
+   Venta de Tickets para Estudiantes: Los estudiantes pueden registrarse en la aplicación GOUCNE, ver las rutas y horarios disponibles, y comprar sus tickets de transporte de manera conveniente.
 
   Gestión de Asociaciones: La parte administrativa de la aplicación permite proporcionar detalles de los servicios de las asociaciones de transporte y gestionar los horarios y rutas de sus tickets disponibles.
 
