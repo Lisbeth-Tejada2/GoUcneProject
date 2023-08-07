@@ -1,6 +1,8 @@
 # GoUcneProject
 Enlace a primera parte del video explicativo: https://youtu.be/a8JWUnhs0Ak
+
 Enlace a segunda parte del video explicativo: https://youtu.be/1IkGfp6FKi4
+
 Enlace a autoevaluación: https://docs.google.com/document/d/1C4gNIjkOcPSftO65nnysHOEZhLY569-sZLwN0g20ODs/edit?usp=sharing
 
 Proyecto GOUCNE - Gestión de Tickets para el Transporte Universitario
